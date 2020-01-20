@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Pixabay Search</ShortName>
+  <LongName>Pixabay (Search Engine)</LongName>
+  <Description>This extension installs Pixabay's search engine in the browser and allows to search Public Domain / Creative Commons CC0 photos directly form the search bar.</Description>
+  <Language>*</Language>
+  <Tags>opensearch, pixabay, photos, images, pics, pictures, public domain, creative commons</Tags>
+  <Image height="16" width="16" type="image/png">https://pixabay.com/favicon-16x16.png</Image>
+  <Image height="32" width="32" type="image/png">https://pixabay.com/favicon-32x32.png</Image>
+  <Url type="text/html" method="get" template="https://pixabay.com/images/search/{searchTerms}">
+  </Url> 
+  <Developer>Reinventia - Desarrollo Web/Apps Madrid</Developer>
+  <Contact>soporte.opensearch@reinventia.es</Contact>
+  <Attribution>
+    The Intellectual Property Rights over the results retrieved by using
+    this extension, as well as the distinctive signs &amp; trademarks included
+    in it belongs to queried website owners. The developer has no affiliation 
+    with them, and distributes this extension at no cost. By using this
+    extension you agree on the Terms Of Service of the queried website.
+    
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;
+    
+    By using this program, you agree to the Terms of Service of the 
+    website queried by this. All data retrieved and trademarks belongs to the site's
+    owners, not the extension developer.
+  </Attribution>
+  <AdultContent>false</AdultContent>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

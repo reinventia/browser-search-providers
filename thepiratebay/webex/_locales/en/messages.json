@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "The Pirate Bay by Seeders (Search Provider)",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "This extension installs The Pirate Bay's search engine and allows to look up torrents (ordered by number of seeders) directly form the location bar using an encrypted connection. Won't work if you cant open www.thepiratebay.org in your browser",
+        "description": "Description of the extension"
+    }
+}

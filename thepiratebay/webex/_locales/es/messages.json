@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "The Pirate Bay por Número de Semillas (Buscador)",
+        "description": "Nombre de la extensión"
+    },
+    "extensionDescription": {
+        "message": "Esta extensión instala el motor de búsqueda The Pirate Bay y permite buscar torrents (priorizando los más compartidos) desde la barra de direcciones mediante conexión cifrada. No funciona si no puedes abrir thepiratebay.org en el navegador",
+        "description": "Descripción de la extensión"
+    }
+}
